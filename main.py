@@ -9,6 +9,5 @@ arcade.draw_circle_filled(300, 275, 60, arcade.color.WHITE)
 arcade.draw_circle_filled(300, 350, 50, arcade.color.WHITE)
 arcade.draw_circle_filled(280, 360, 7, arcade.color.BLACK)
 arcade.draw_circle_filled(320, 360, 7, arcade.color.BLACK)
-print("Hello")
 arcade.run()
 
